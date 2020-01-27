@@ -1,0 +1,45 @@
+h1 {
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+    font-family:Arial;
+}
+h2 {
+    color: purple;
+    font-size: 25px;
+    text-align: center;
+    font-family:Arial;
+}
+p {
+    text-align: center;
+    font-family:Arial;
+}
+img {
+height: 320px;
+/* width: 320px; */
+}
+
+em{
+text-transform: uppercase;
+font-style: initial;
+}
+#first {
+text-align: left;
+}
+
+/* #second{
+text-align: right;
+} */
+.right{
+text-align: right;
+}
+/* body{
+background-color: blue;
+} */
+.big {
+    font-size: 32px;
+}
+
+p.tacos .big{
+ font-size:48px ;   
+}
